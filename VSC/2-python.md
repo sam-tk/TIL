@@ -1,0 +1,3 @@
+# python
+
+ANACONDAをインストールしていたのでANACONDA NAVIGATORからVS CodeをLaunch.
